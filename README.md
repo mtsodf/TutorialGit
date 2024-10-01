@@ -11,3 +11,4 @@ git add: Adicina um arquivo a staged area.
 
 git commit -m "mensagem": Commita as alterações no git
 
+git push: Envia as alterações para o repositório remoto.
