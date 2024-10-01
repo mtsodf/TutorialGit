@@ -7,3 +7,7 @@ Esse repositório vai ser utilizado como exemplo de git para aula dada no Infnet
 
 git init: Inicializa um repositório git em um diretório.
 
+git add: Adicina um arquivo a staged area.
+
+git commit -m "mensagem": Commita as alterações no git
+
