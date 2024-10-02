@@ -10,3 +10,4 @@ Esse repositório vai ser utilizado como exemplo de git para aula dada no Infnet
 * git commit -m "mensagem": Commita as alterações no git
 * git push: Envia as alterações para o repositório remoto.
 * git clone: Faz cópia do repositório remoto localmente.
+* git pull: Atualiza o repositório local com as alterações do repositório remoto.
