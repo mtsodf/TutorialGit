@@ -9,3 +9,4 @@ Esse repositório vai ser utilizado como exemplo de git para aula dada no Infnet
 * git add: Adicina um arquivo a staged area.
 * git commit -m "mensagem": Commita as alterações no git
 * git push: Envia as alterações para o repositório remoto.
+* git clone: Faz cópia do repositório remoto localmente.
